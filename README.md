@@ -1,2 +1,6 @@
 # Palladium-price-prediction
-Built Keras LSTM, Sklearn Lienar regression and Decision tree to predict Palladium price
+Analyze the correlation between Palladium, platinum and nickel.
+
+Analyze the correlation between Palladium and World Vehicle Production by finding the break point with segmented regression
+
+Built Keras LSTM model, Sklearn Lienar regression and Decision tree models to predict Palladium prices
